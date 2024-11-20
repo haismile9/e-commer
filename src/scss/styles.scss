@@ -1,0 +1,20 @@
+.navbar .btn-outline-light {
+    border: 1px solid var(--bs-light);
+}
+
+.navbar .btn-outline-light:hover {
+    color: var(--bs-dark);
+}
+
+.header {
+    background: url(../assets/images/banner/my-background.png) center center no-repeat;
+    background-size: cover;
+}
+
+.normal-ul {
+    margin: 0;
+    padding: 0;
+    li {
+        list-style: none;
+    }
+}
